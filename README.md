@@ -7,4 +7,4 @@
 
 
 ## Consumer spend Analysis wrt Generation using Tableau
-![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Consumer%20spend%20by%20generation/Insights%20giff.gif)
+_________________________ ![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Consumer%20spend%20by%20generation/Insights%20giff.gif) _____________________
