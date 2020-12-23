@@ -4,10 +4,11 @@
 
 ### This Repository contains sample work in in Tableau/ Advanced Excel -dashboards for various data sets.
 
+## Story-using Tableau
+![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Data%20Analysis%20%2B%20Sentiment%20Analysis/Gif.gif)
+
 ## Dynamic Dashboard using Advanced Excel
 ![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Global%20Superstore/Dashboard.gif)
-
-
 
 ## Consumer spend Analysis wrt Generation using Tableau
 ______________________ ![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Consumer%20spend%20by%20generation/Insights%20giff.gif) 
