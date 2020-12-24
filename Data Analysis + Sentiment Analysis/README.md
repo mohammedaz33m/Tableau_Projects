@@ -1,3 +1,7 @@
+# Story: 
+![image](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Data%20Analysis%20%2B%20Sentiment%20Analysis/Gif.gif)
+
+# Dynamic Dashboards used
 ## Dashboard 1
 ![image](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Data%20Analysis%20%2B%20Sentiment%20Analysis/Dashboard-1.jpg)
 
