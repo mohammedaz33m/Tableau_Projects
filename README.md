@@ -1,6 +1,6 @@
 # Visualization Projects
 
-## For live interactions with Dashboards please visit- Tableau Public Account: https://public.tableau.com/profile/mohammed.azeem4239#!/
+## For live interactions with Dashboards please visit- Tableau Public Account: https://public.tableau.com/profile/mohammed.azeem78#!/
 
 ### This Repository contains sample work in in Tableau/ Advanced Excel -dashboards for various data sets.
 
