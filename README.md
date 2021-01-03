@@ -4,6 +4,10 @@
 
 ### This Repository contains sample work in in Tableau/ Advanced Excel -dashboards for various data sets.
 
+## ETL Project: AtliQ- Sales Insigts by fetching data via SQL
+![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/SQL%20Projects/readme_img/gif.gif)
+
+
 ## Story-using Tableau
 ![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/Data%20Analysis%20%2B%20Sentiment%20Analysis/Gif.gif)
 
