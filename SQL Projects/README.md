@@ -9,7 +9,7 @@ The Aim's Grid is a central tool for planning any venture and a must-have for pr
 ![screenshot](https://github.com/mohammedaz33m/Tableau_Projects/blob/main/SQL%20Projects/readme_img/Aims_grid%20(1).png)
 
 # Purpose: 
-### To understand the sales insigts that are not visible before for the sales team to help in decision making & automate the task in to reduce the time spent in gathering data.
+### To understand the sales insights that are not visible before for the sales team to help in decision making & automate the task in to reduce the time spent in gathering data.
 
 # Stakeholders:
 - Sales Team
